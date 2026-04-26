@@ -1,0 +1,25 @@
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Private files
+.env
+.env.*
+private/
+_private/
+backups/
+backup/
+*.bak
+*.backup
+
+# Reports and temporary files
+reports/
+*.log
+*.tmp
+
+# Node/Python folders if testing tools later
+node_modules/
+__pycache__/
+.venv/
+venv/
